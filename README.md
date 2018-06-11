@@ -3,7 +3,7 @@
 
 ## 一个超轻量级，简单好用的多文件选择器。
 
-# JTFilePicker [![jCenter](https://img.shields.io/badge/jCenter-1.3.2-green.svg)](https://bintray.com/william198824/maven/JTFilePicker/_latestVersion)  [![License](https://img.shields.io/badge/License-Apache--2.0%20-blue.svg)](./LICENSE)
+# JTFilePicker [![jCenter](https://img.shields.io/badge/jCenter-1.3.2-green.svg)](https://bintray.com/hc/maven/JTFilePicker/_latestVersion)  [![License](https://img.shields.io/badge/License-Apache--2.0%20-blue.svg)](./LICENSE)
 
 
 ![image](jtfilepicker.gif)
@@ -20,7 +20,7 @@
 ```
 dependencies {
     ......
-    implementation 'com.william:JTFilePicker:1.3.2'
+    implementation 'com.hc:JTFilePicker:1.3.2'
 }
 ```
 ### 用法：
@@ -117,40 +117,3 @@ public void onActivityResult(int requestCode, int resultCode, Intent data) {
     limitations under the License.
 =======
 # JTFilePicker
-
-#### 项目介绍
-用到的远程依赖库
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
->>>>>>> 234f2ed5067445ee4a0061457e336f20836dfc99
